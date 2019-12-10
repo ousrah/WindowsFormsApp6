@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp6
 {
-    public partial class Form1 : Form
+    public partial class ysf_Form1 : Form
     {
-        public Form1()
+        public ysf_Form1()
         {
             InitializeComponent();
         }

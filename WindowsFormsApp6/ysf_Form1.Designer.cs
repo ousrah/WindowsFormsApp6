@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp6
 {
-    partial class Form1
+    partial class ysf_Form1
     {
         /// <summary>
         /// Variable nécessaire au concepteur.
